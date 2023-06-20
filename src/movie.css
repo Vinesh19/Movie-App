@@ -1,0 +1,7 @@
+.movie {
+  overflow: hidden;
+}
+
+.movie:hover .overview {
+    transform: translateY(0);
+  }
